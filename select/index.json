@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "FUTURITY SMILE -25 colors-",
+  "base_artist": "シャイニーカラーズ",
+  "createdAt": "2026-03-22T14:51:07.371810Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FUTURITY SMILE",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/01_FUTURITY_SMILE_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FUTURITY SMILE -25 colors-",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/02_FUTURITY_SMILE_-25_colors-_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FUTURITY SMILE -25 colors-",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/03_FUTURITY_SMILE_-25_colors-_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "FUTURITY SMILE -25 colors-",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/04_FUTURITY_SMILE_-25_colors-_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FUTURITY SMILE",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_01_FUTURITY_SMILE_シャイニーカラーズ.txt"
+    }
+  ]
+}
